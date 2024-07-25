@@ -1,2 +1,2 @@
-# Projet_Algo-Dur
+# Projet_Algorithmes avancée
 Project Algorithmes avancée
